@@ -4,8 +4,7 @@
 <h3>Come back any time</h3>
 
 <div align="center" >
- 
-  <h3>Detalhes:</h3>
+
   [![card](https://github-readme-stats.vercel.app/api?username=Emanuelvss13&theme=dark)](https://github.com/Emanuelvss13/)
 
   
