@@ -26,7 +26,7 @@
 
 <p>Backend:</p>
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <span>  and AdonisJs</span>
+<img height="28px" width="72px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MYwmy_NY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/v8uvgp1yfh9480fw3233.jpg" />  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 <p>Ferramentas:</p>
 
@@ -55,3 +55,9 @@
   
   [![Emanuelvss13](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelvss13&hide=html&layout=compact=true&theme=dark)](https://github.com/Emanuelvss13/)
 </div>
+
+<hr>
+
+<h1>Come back anytime!</h1>
+
+
