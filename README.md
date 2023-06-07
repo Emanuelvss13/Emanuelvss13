@@ -2,7 +2,7 @@
 
 <h3>Bem-vindo ao meu perfil do github.  :sunglasses:</h3>
 
-<p>Sou desenvolvedor Back-end e atualmente estudo no Instituto Federal do Piauí</p>
+<p>Sou desenvolvedor NodeJS Full-stack e atualmente estudo no Instituto Federal do Piauí</p>
 
 <a href="https://www.linkedin.com/in/emanuel-vitor-de-souza-silva-044249218/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,9 +19,10 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  -->
 
-<p>Frameworks :0</p>
+<p>Frameworks:</p>
 
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <!-- <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />  -->
 
 <p>Ferramentas:</p>
